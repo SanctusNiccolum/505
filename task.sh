@@ -6,3 +6,5 @@ for word in $(cat $file)
 do
 echo " $word"
 done
+
+echo "test github"
